@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ianvi\\Documents\\GitHub\\code_books\\exercises_for_programmers_Brian_Hogan\\exercise0_tip_calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E4D95B-C35D-4791-8C5A-C2573219323E}|exercise0_tip_calculator.vcxproj|C:\\Users\\ianvi\\Documents\\GitHub\\code_books\\exercises_for_programmers_Brian_Hogan\\exercise0_tip_calculator\\exercise0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7E4D95B-C35D-4791-8C5A-C2573219323E}|exercise0_tip_calculator.vcxproj|solutionrelative:exercise0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "exercise0.cpp",
+              "DocumentMoniker": "C:\\Users\\ianvi\\Documents\\GitHub\\code_books\\exercises_for_programmers_Brian_Hogan\\exercise0_tip_calculator\\exercise0.cpp",
+              "RelativeDocumentMoniker": "exercise0.cpp",
+              "ToolTip": "C:\\Users\\ianvi\\Documents\\GitHub\\code_books\\exercises_for_programmers_Brian_Hogan\\exercise0_tip_calculator\\exercise0.cpp",
+              "RelativeToolTip": "exercise0.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-23T01:26:15.486Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

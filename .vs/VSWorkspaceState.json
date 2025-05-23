@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\exercises_for_programmers_Brian_Hogan",
+    "\\exercises_for_programmers_Brian_Hogan\\exercise0_tip_calculator",
+    "\\programming_principles_and_practice_cpp_stroustrup"
   ],
-  "SelectedNode": "\\programming_principles_and_practice_cpp_stroustrup",
+  "SelectedNode": "\\exercises_for_programmers_Brian_Hogan\\exercise0_tip_calculator\\exercise0.cpp",
   "PreviewInSolutionExplorer": false
 }
